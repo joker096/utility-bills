@@ -1,7 +1,5 @@
 import streamlit as st
 import json
-import os
-import datetime
 
 
 # Class to manage utility costs and calculations

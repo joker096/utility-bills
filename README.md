@@ -34,3 +34,5 @@ Run the Streamlit app:
 ```
 streamlit run utility-bills.py
 ```
+
+Demo: https://utility-bills.streamlit.app/

@@ -1,0 +1,24 @@
+{
+    "ул. Пушкина, д. 10, кв. 5": {
+        "hot_water_reading": 74,
+        "hot_water_tariff": 33.12,
+        "cold_water_reading": 83,
+        "cold_water_tariff": 33.12,
+        "daytime_electricity_reading": 6452,
+        "daytime_electricity_tariff": 3.67,
+        "nighttime_electricity_reading": 2708,
+        "nighttime_electricity_tariff": 1.98,
+        "last_updated": "2024-03-27 21:59:26"
+    },
+    "ул. Лермонтова, д. 15, кв. 8": {
+        "hot_water_reading": 43,
+        "hot_water_tariff": 33.12,
+        "cold_water_reading": 34,
+        "cold_water_tariff": 33.12,
+        "daytime_electricity_reading": 5937,
+        "daytime_electricity_tariff": 3.67,
+        "nighttime_electricity_reading": 1979,
+        "nighttime_electricity_tariff": 1.98,
+        "last_updated": "2024-04-10 20:56:27"
+    }
+}

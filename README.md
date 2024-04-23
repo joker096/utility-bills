@@ -16,7 +16,7 @@ The Utilities Payment App allows users to:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your_username/utilities-payment-app.git
+git clone https://github.com/joker096/utility-bills.git
 cd utilities-payment-app
 ```
 

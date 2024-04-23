@@ -17,7 +17,7 @@ The Utilities Payment App allows users to:
 
 ```
 git clone https://github.com/joker096/utility-bills.git
-cd utilities-payment-app
+cd utility-bills
 ```
 
 2. Install the required dependencies:

@@ -11,6 +11,8 @@ The Utilities Payment App allows users to:
 - Delete an existing house
 - Update utility values for each house and calculate monthly differences and total monthly cost
 
+<img src="https://lh3.googleusercontent.com/pw/AP1GczOepW8vVn2rV_4Sii45qRq_lUlMZ4BJCNJQcwvyPLj_rjXBkA681ZnGrex9R_TtvvtfAi-cbGNsfmzYTeqsENNqMLP8imz9riNfwq3mqRQ8JCJOlw=w1920-h1080">
+
 ## Installation
 
 1. Clone the repository:
